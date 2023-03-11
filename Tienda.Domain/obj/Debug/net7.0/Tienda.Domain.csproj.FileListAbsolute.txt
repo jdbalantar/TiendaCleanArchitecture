@@ -1,0 +1,12 @@
+D:\Escritorio\Tienda\Tienda.Domain\bin\Debug\net7.0\Tienda.Domain.deps.json
+D:\Escritorio\Tienda\Tienda.Domain\bin\Debug\net7.0\Tienda.Domain.dll
+D:\Escritorio\Tienda\Tienda.Domain\bin\Debug\net7.0\Tienda.Domain.pdb
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.csproj.AssemblyReference.cache
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.AssemblyInfo.cs
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.dll
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\refint\Tienda.Domain.dll
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\Tienda.Domain.pdb
+D:\Escritorio\Tienda\Tienda.Domain\obj\Debug\net7.0\ref\Tienda.Domain.dll

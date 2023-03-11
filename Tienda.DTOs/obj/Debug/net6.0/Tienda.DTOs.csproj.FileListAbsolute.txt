@@ -1,0 +1,12 @@
+D:\Escritorio\Tienda\Tienda.DTOs\bin\Debug\net6.0\Tienda.DTOs.deps.json
+D:\Escritorio\Tienda\Tienda.DTOs\bin\Debug\net6.0\Tienda.DTOs.dll
+D:\Escritorio\Tienda\Tienda.DTOs\bin\Debug\net6.0\Tienda.DTOs.pdb
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.csproj.AssemblyReference.cache
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.AssemblyInfoInputs.cache
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.AssemblyInfo.cs
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.dll
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\refint\Tienda.DTOs.dll
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\Tienda.DTOs.pdb
+D:\Escritorio\Tienda\Tienda.DTOs\obj\Debug\net6.0\ref\Tienda.DTOs.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+Zef/jOJurV9RE6e09BJIicto1b2kYk8Z11eD/M9gEFI1heUMMHmOxhxQFN+uOhVY7QxnQsZ9uROLabQe6eJw==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\Tienda\\Tienda.Domain\\Tienda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BALANTA\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\BALANTA\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

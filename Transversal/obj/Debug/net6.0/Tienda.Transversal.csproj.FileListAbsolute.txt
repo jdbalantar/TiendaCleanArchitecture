@@ -1,0 +1,12 @@
+D:\Escritorio\Tienda\Transversal\bin\Debug\net6.0\Tienda.Transversal.deps.json
+D:\Escritorio\Tienda\Transversal\bin\Debug\net6.0\Tienda.Transversal.dll
+D:\Escritorio\Tienda\Transversal\bin\Debug\net6.0\Tienda.Transversal.pdb
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.csproj.AssemblyReference.cache
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.AssemblyInfoInputs.cache
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.AssemblyInfo.cs
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.dll
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\refint\Tienda.Transversal.dll
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\Tienda.Transversal.pdb
+D:\Escritorio\Tienda\Transversal\obj\Debug\net6.0\ref\Tienda.Transversal.dll

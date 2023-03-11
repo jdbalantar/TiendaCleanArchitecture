@@ -1,0 +1,17 @@
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.BusinessLogic.deps.json
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.BusinessLogic.dll
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.BusinessLogic.pdb
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.Domain.dll
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.DTOs.dll
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.Domain.pdb
+D:\Escritorio\Tienda\Tienda.BusinessLogic\bin\Debug\net7.0\Tienda.DTOs.pdb
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.csproj.AssemblyReference.cache
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.AssemblyInfoInputs.cache
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.AssemblyInfo.cs
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.csproj.CopyComplete
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.dll
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\refint\Tienda.BusinessLogic.dll
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\Tienda.BusinessLogic.pdb
+D:\Escritorio\Tienda\Tienda.BusinessLogic\obj\Debug\net7.0\ref\Tienda.BusinessLogic.dll

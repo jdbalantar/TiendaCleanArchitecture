@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X/cJAFLxpUn3v+CKo/Edpx5oJgeiL+0H8WqHcNCo+Pk=",
+  "Source": "Tienda.RestApi",
+  "BasePath": "_content/Tienda.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

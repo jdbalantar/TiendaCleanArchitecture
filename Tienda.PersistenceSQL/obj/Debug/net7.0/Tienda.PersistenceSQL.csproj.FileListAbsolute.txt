@@ -1,0 +1,17 @@
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.PersistenceSQL.deps.json
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.PersistenceSQL.runtimeconfig.json
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.PersistenceSQL.dll
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.PersistenceSQL.pdb
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.Domain.dll
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\bin\Debug\net7.0\Tienda.Domain.pdb
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.csproj.AssemblyReference.cache
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.AssemblyInfoInputs.cache
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.AssemblyInfo.cs
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.csproj.CopyComplete
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.dll
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\refint\Tienda.PersistenceSQL.dll
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.pdb
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\Tienda.PersistenceSQL.genruntimeconfig.cache
+D:\Escritorio\Tienda\Tienda.PersistenceSQL\obj\Debug\net7.0\ref\Tienda.PersistenceSQL.dll
